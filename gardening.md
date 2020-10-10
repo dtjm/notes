@@ -2,7 +2,9 @@
 date: 2020-10-10T17:42
 ---
 
-# gardening
+# Gardening
 
-Write your Markdown content here. Read [neuron documentation](https://neuron.zettel.page/2011404.html) for syntax help.
+## Mulching
+- [de Jong's Sawdust & Shavings](http://dejongss.squarespace.com) 
+  - Use [Fertil-Mulch](http://dejongss.squarespace.com/new-page-96) to amend soil.  Only dig into the soil once (6" deep).  After that, place a new layer on top each year.
 
