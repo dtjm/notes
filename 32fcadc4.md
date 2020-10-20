@@ -2,7 +2,10 @@
 date: 2020-10-20T01:24
 ---
 
-# 32fcadc4
+# Dynamic Capacity Management
+- [Performance Under Load](https://medium.com/@NetflixTechBlog/performance-under-load-3e6fa9a60581) (Netflix) - Adaptive concurrency limits
 
-Write your Markdown content here. Read [neuron documentation](https://neuron.zettel.page/2011404.html) for syntax help.
-
+# Links
+- [[[5d6c9066]]]
+- [[[a04a8f54]]]
+- [[[3e563a75]]]
