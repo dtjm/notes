@@ -9,6 +9,8 @@ date: 2020-10-20T01:24
 - [Performance Under Load](https://medium.com/@NetflixTechBlog/performance-under-load-3e6fa9a60581) (Netflix) - Adaptive concurrency limits
 - [Netflix/concurrency-limits](https://github.com/Netflix/concurrency-limits)
   - "Instead of thinking in terms of RPS, we should be thinking in terms of concurrent requests"
+- [platinummonkey/go-concurrency-limits](https://github.com/platinummonkey/go-concurrency-limits)
+  - Go implementation of Netflix library 
 
 # Links
 - [[[5d6c9066]]]
