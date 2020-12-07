@@ -11,6 +11,7 @@ date: 2020-10-20T01:24
   - "Instead of thinking in terms of RPS, we should be thinking in terms of concurrent requests"
 - [platinummonkey/go-concurrency-limits](https://github.com/platinummonkey/go-concurrency-limits)
   - Go implementation of Netflix library 
+- [TCP Congestion Control](https://web.cs.wpi.edu/~rek/Undergrad_Nets/B07/TCP_Congestion_Control.pdf), Lecture from Worcestershire Polytechnic Institute, Advanced Computer Networks course
 
 # Links
 - [[[5d6c9066]]]
