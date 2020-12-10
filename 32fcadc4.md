@@ -1,8 +1,16 @@
 ---
 date: 2020-10-20T01:24
----
+--- 
 
 # Dynamic Capacity Management
+
+## Why use concurrency limits instead of rate limits?
+  - Rate limits can be overcome easily with additional concurrency
+  - Concurrency limits cannot be overcome by increasing the request rate
+  - Concurrency limits avoid wasted capacity 
+  - Auto-negotiated concurrency limits scale in sync with your systems
+
+## Links
 - [Stop Rate Limiting!](https://thestrangeloop.com/2017/stop-rate-limiting-capacity-management-done-right.html)
   - Strange Loop talk by [Jon Moore](https://blog.jonm.dev) (Sep 2017) 
   - Little's Law & using concurrency limits instead of rate limits
