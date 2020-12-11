@@ -23,6 +23,7 @@ date: 2020-10-20T01:24
 - [Envoy, Take the Wheel: Real-time Adaptive Circuit Breaking (Youtube)](https://www.youtube.com/watch?v=CQvmSXlnyeQ) Tony Allen (Lyft), Sep 2020
   - "Modern service mesh deployments are equipped with hundreds of tunables, such as timeouts and circuit breakers. Finding ideal initial values requires deep technical expertise. Workloads change over time, requiring regular effort to re-tune stale parameters. As a consequence, configuration errors have become a source of operational toil and one of the major causes of system failures across the industry. The service mesh should aim to expose a minimal configuration surface by dynamically adjusting parameters based on observations."
   - [Envoy adaptive concurrency configuration](https://www.envoyproxy.io/docs/envoy/latest/configuration/http/http_filters/adaptive_concurrency_filter)
+  - [Envoy adaptive concurrency proposal](https://github.com/envoyproxy/envoy/issues/7789)
   - [Anatomy of a Cascading Failure - Adaptive Concurrency Limits](https://www.datadoghq.com/videos/the-anatomy-of-a-cascading-failure-n26/#adaptive-concurrency-limits)
 
 # Links
