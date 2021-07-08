@@ -1,3 +1,5 @@
+How do I get my architectural ideas to make an actual impact on customer experience? 
+
 # Chapter 1
 ## Six Dangerous Planning Mistakes
 1. Tolerating Vague Objectives
@@ -12,3 +14,7 @@
 2. How will we measure success?
 3. What other conditions must exist? 
 4. How do we get there?
+
+# Chapter 2 
+## If-then thinking
+> Stringing multiple `If-Then` linkages together forms multi-level *strategic hypotheses*
