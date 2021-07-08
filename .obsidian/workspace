@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "maturity",
+                "query": "maglev",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
