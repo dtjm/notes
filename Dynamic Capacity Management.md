@@ -4,11 +4,14 @@ date: 2020-10-20T01:24
 
 # Dynamic Capacity Management
 
+[[Fair Queueing]] and [[Adaptive Concurrency]] are two ways to perform dynamic capacity management. 
+
 ## Why use concurrency limits instead of rate limits?
   - Rate limits can be overcome easily with additional concurrency
   - Concurrency limits cannot be overcome by increasing the request rate
   - Concurrency limits avoid wasted capacity 
   - Auto-negotiated concurrency limits scale in sync with your systems
+
 
 ## Links
 - [Stop Rate Limiting!](https://thestrangeloop.com/2017/stop-rate-limiting-capacity-management-done-right.html)

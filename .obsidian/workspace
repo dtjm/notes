@@ -1,0 +1,79 @@
+{
+  "main": {
+    "id": "6733c0925ed74f23",
+    "type": "split",
+    "children": [
+      {
+        "id": "31a554e2eef7835e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Death and Life of Great American Cities.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "377d2f4991235b7a",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "fbf73e45712ccdc4",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "80e545a9501e97f2",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "dynamic",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      }
+    ],
+    "currentTab": 1
+  },
+  "right": {
+    "id": "ab9e9e2b48a0a1a8",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "37a773bdf392dac7",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Death and Life of Great American Cities.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      }
+    ]
+  },
+  "active": "31a554e2eef7835e",
+  "lastOpenFiles": [
+    "Untitled.md",
+    "Dynamic Capacity Management.md",
+    "32fcadc4.md"
+  ]
+}
