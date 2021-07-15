@@ -1,79 +1,118 @@
 {
   "main": {
-    "id": "6733c0925ed74f23",
+    "id": "948d4ccdbff7d829",
     "type": "split",
     "children": [
       {
-        "id": "31a554e2eef7835e",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Death and Life of Great American Cities.md",
-            "mode": "source"
+        "id": "fa396c608dabe9eb",
+        "type": "split",
+        "children": [
+          {
+            "id": "9b959c90846c3931",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Strategic Project Management Made Simple.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "c32529fb3932704d",
+            "type": "leaf",
+            "state": {
+              "type": "mindmap",
+              "state": {}
+            }
           }
-        }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "377d2f4991235b7a",
-    "type": "mobile-drawer",
+    "id": "634ad3fa2c768077",
+    "type": "split",
     "children": [
       {
-        "id": "fbf73e45712ccdc4",
-        "type": "leaf",
-        "state": {
-          "type": "file-explorer",
-          "state": {}
-        }
-      },
-      {
-        "id": "80e545a9501e97f2",
-        "type": "leaf",
-        "state": {
-          "type": "search",
-          "state": {
-            "query": "dynamic",
-            "matchingCase": false,
-            "explainSearch": false,
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical"
+        "id": "7f767521720fd8e3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fd65111d6cbdb858",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "7b24a8585720d8a3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "maglev",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
           }
-        }
+        ],
+        "currentTab": 1
       }
     ],
-    "currentTab": 1
+    "direction": "horizontal",
+    "width": 300
   },
   "right": {
-    "id": "ab9e9e2b48a0a1a8",
-    "type": "mobile-drawer",
+    "id": "02daffe161df1361",
+    "type": "split",
     "children": [
       {
-        "id": "37a773bdf392dac7",
-        "type": "leaf",
-        "state": {
-          "type": "backlink",
-          "state": {
-            "file": "Death and Life of Great American Cities.md",
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical",
-            "showSearch": false,
-            "searchQuery": "",
-            "backlinkCollapsed": false,
-            "unlinkedCollapsed": true
+        "id": "8f32d39b53e639c7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fb765198ca3608ae",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Strategic Project Management Made Simple.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
           }
-        }
+        ]
       }
-    ]
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
   },
-  "active": "31a554e2eef7835e",
+  "active": "9b959c90846c3931",
   "lastOpenFiles": [
-    "Untitled.md",
-    "Dynamic Capacity Management.md",
-    "32fcadc4.md"
+    "Strategic Project Management Made Simple.md",
+    "fe44f846.md",
+    "7443a913.md",
+    "32fcadc4.md",
+    "3e563a75.md",
+    "z:zettels?tag=other.md",
+    "README.md",
+    "index.md",
+    "gardening.md",
+    "faq.md"
   ]
 }

@@ -28,6 +28,7 @@ date: 2020-10-20T01:24
   - [Envoy adaptive concurrency configuration](https://www.envoyproxy.io/docs/envoy/latest/configuration/http/http_filters/adaptive_concurrency_filter)
   - [Envoy adaptive concurrency proposal](https://github.com/envoyproxy/envoy/issues/7789)
   - [Anatomy of a Cascading Failure - Adaptive Concurrency Limits](https://www.datadoghq.com/videos/the-anatomy-of-a-cascading-failure-n26/#adaptive-concurrency-limits)
+  - [DCM: Dynamic Concurrency Management for Scaling n-Tier Applications in Cloud](http://www.sis.pitt.edu/bpalan/papers/DCM-ICDCS2017.pdf)
 
 # Links
 - [[[5d6c9066]]]
