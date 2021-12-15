@@ -24,7 +24,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "gardening.md",
+                "file": "Becoming a Great Conversationalist.md",
                 "mode": "source"
               }
             }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "gardening.md",
+                "file": "Becoming a Great Conversationalist.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,6 +114,7 @@
   },
   "active": "8fd369a0d2b03cde",
   "lastOpenFiles": [
+    "Becoming a Great Conversationalist.md",
     "gardening.md",
     "z:zettels?tag=other.md",
     "conflict-files-obsidian-git.md",
@@ -122,7 +123,6 @@
     "7443a913.md",
     "32fcadc4.md",
     "3e563a75.md",
-    "README.md",
-    "index.md"
+    "README.md"
   ]
 }
