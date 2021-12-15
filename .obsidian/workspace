@@ -4,106 +4,76 @@
     "type": "split",
     "children": [
       {
-        "id": "fa396c608dabe9eb",
-        "type": "split",
-        "children": [
-          {
-            "id": "9b959c90846c3931",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Strategic Project Management Made Simple.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "c32529fb3932704d",
-            "type": "leaf",
-            "state": {
-              "type": "mindmap",
-              "state": {}
-            }
+        "id": "9b959c90846c3931",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Metastable Failures.md",
+            "mode": "preview"
           }
-        ],
-        "direction": "horizontal"
+        }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "634ad3fa2c768077",
-    "type": "split",
+    "id": "a2f68dc1d3aac07f",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "7f767521720fd8e3",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "fd65111d6cbdb858",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {}
-            }
-          },
-          {
-            "id": "7b24a8585720d8a3",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "maglev",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
-            }
+        "id": "8069f16186a6e54a",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "0d1b9c98150c8b76",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
           }
-        ],
-        "currentTab": 1
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 300
+    "currentTab": 0
   },
   "right": {
-    "id": "02daffe161df1361",
-    "type": "split",
+    "id": "be3474d30b90ee3d",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "8f32d39b53e639c7",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "fb765198ca3608ae",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Strategic Project Management Made Simple.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
+        "id": "d96e0723cd85f942",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Metastable Failures.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
           }
-        ]
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "currentTab": 0
   },
   "active": "9b959c90846c3931",
   "lastOpenFiles": [
+    "Metastable Failures.md",
     "Strategic Project Management Made Simple.md",
     "fe44f846.md",
     "7443a913.md",
@@ -112,7 +82,6 @@
     "z:zettels?tag=other.md",
     "README.md",
     "index.md",
-    "gardening.md",
-    "faq.md"
+    "gardening.md"
   ]
 }
