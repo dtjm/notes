@@ -19,6 +19,14 @@
             }
           },
           {
+            "id": "8fd369a0d2b03cde",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
             "id": "c32529fb3932704d",
             "type": "leaf",
             "state": {
@@ -84,7 +92,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Strategic Project Management Made Simple.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,8 +109,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9b959c90846c3931",
+  "active": "8fd369a0d2b03cde",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "Strategic Project Management Made Simple.md",
     "fe44f846.md",
     "7443a913.md",
@@ -112,7 +120,6 @@
     "z:zettels?tag=other.md",
     "README.md",
     "index.md",
-    "gardening.md",
-    "faq.md"
+    "gardening.md"
   ]
 }
