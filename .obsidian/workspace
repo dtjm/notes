@@ -22,8 +22,11 @@
             "id": "8fd369a0d2b03cde",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "gardening.md",
+                "mode": "source"
+              }
             }
           },
           {
@@ -62,7 +65,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "maglev",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -71,8 +74,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -92,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "gardening.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,15 +114,15 @@
   },
   "active": "8fd369a0d2b03cde",
   "lastOpenFiles": [
+    "gardening.md",
+    "z:zettels?tag=other.md",
     "conflict-files-obsidian-git.md",
     "Strategic Project Management Made Simple.md",
     "fe44f846.md",
     "7443a913.md",
     "32fcadc4.md",
     "3e563a75.md",
-    "z:zettels?tag=other.md",
     "README.md",
-    "index.md",
-    "gardening.md"
+    "index.md"
   ]
 }
