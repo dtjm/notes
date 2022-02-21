@@ -4,85 +4,124 @@
     "type": "split",
     "children": [
       {
-        "id": "9b959c90846c3931",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Universal Model of Maturity.md",
-            "mode": "source",
-            "source": false
+        "id": "fa396c608dabe9eb",
+        "type": "split",
+        "children": [
+          {
+            "id": "9b959c90846c3931",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Strategic Project Management Made Simple.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "8fd369a0d2b03cde",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Becoming a Great Conversationalist.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "c32529fb3932704d",
+            "type": "leaf",
+            "state": {
+              "type": "mindmap",
+              "state": {}
+            }
           }
-        }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "a2f68dc1d3aac07f",
-    "type": "mobile-drawer",
+    "id": "634ad3fa2c768077",
+    "type": "split",
     "children": [
       {
-        "id": "8069f16186a6e54a",
-        "type": "leaf",
-        "state": {
-          "type": "file-explorer",
-          "state": {}
-        }
-      },
-      {
-        "id": "0d1b9c98150c8b76",
-        "type": "leaf",
-        "state": {
-          "type": "search",
-          "state": {
-            "query": "universal",
-            "matchingCase": false,
-            "explainSearch": false,
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical"
+        "id": "7f767521720fd8e3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fd65111d6cbdb858",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "7b24a8585720d8a3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
           }
-        }
+        ]
       }
     ],
-    "currentTab": 1
+    "direction": "horizontal",
+    "width": 300
   },
   "right": {
-    "id": "be3474d30b90ee3d",
-    "type": "mobile-drawer",
+    "id": "02daffe161df1361",
+    "type": "split",
     "children": [
       {
-        "id": "d96e0723cd85f942",
-        "type": "leaf",
-        "state": {
-          "type": "backlink",
-          "state": {
-            "file": "Universal Model of Maturity.md",
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical",
-            "showSearch": false,
-            "searchQuery": "",
-            "backlinkCollapsed": false,
-            "unlinkedCollapsed": true
+        "id": "8f32d39b53e639c7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fb765198ca3608ae",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Becoming a Great Conversationalist.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
           }
-        }
+        ]
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
   },
-  "active": "9b959c90846c3931",
+  "active": "8fd369a0d2b03cde",
   "lastOpenFiles": [
-    "Universal Model of Maturity.md",
-    "Metastable Failures.md",
+    "Becoming a Great Conversationalist.md",
+    "gardening.md",
+    "z:zettels?tag=other.md",
+    "conflict-files-obsidian-git.md",
     "Strategic Project Management Made Simple.md",
     "fe44f846.md",
     "32fcadc4.md",
     "3e563a75.md",
-    "z:zettels?tag=other.md",
-    "README.md",
-    "index.md",
-    "gardening.md"
+    "README.md"
   ]
 }
