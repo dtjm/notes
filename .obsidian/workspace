@@ -9,8 +9,9 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Metastable Failures.md",
-            "mode": "preview"
+            "file": "Universal Model of Maturity.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -35,7 +36,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "universal",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -45,7 +46,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "right": {
     "id": "be3474d30b90ee3d",
@@ -57,7 +58,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Metastable Failures.md",
+            "file": "Universal Model of Maturity.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -73,10 +74,10 @@
   },
   "active": "9b959c90846c3931",
   "lastOpenFiles": [
+    "Universal Model of Maturity.md",
     "Metastable Failures.md",
     "Strategic Project Management Made Simple.md",
     "fe44f846.md",
-    "7443a913.md",
     "32fcadc4.md",
     "3e563a75.md",
     "z:zettels?tag=other.md",
