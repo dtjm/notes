@@ -1,3 +1,6 @@
 {
-  "baseFontSize": 16
+  "baseFontSize": 16,
+  "theme": "system",
+  "textFontFamily": "Palatino,JetBrains Mono",
+  "monospaceFontFamily": "JetBrains Mono"
 }

@@ -4,41 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "fa396c608dabe9eb",
-        "type": "split",
-        "children": [
-          {
-            "id": "9b959c90846c3931",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Strategic Project Management Made Simple.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "8fd369a0d2b03cde",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Becoming a Great Conversationalist.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "c32529fb3932704d",
-            "type": "leaf",
-            "state": {
-              "type": "mindmap",
-              "state": {}
-            }
+        "id": "4714f234bff7a439",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Monotonicity in Software Systems.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
           }
-        ],
-        "direction": "horizontal"
+        }
       }
     ],
     "direction": "vertical"
@@ -94,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Becoming a Great Conversationalist.md",
+                "file": "Monotonicity in Software Systems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,24 +80,47 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "b84cf500ac6b2a5f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Monotonicity in Software Systems.md"
+              }
+            }
+          },
+          {
+            "id": "0cbeed8aaa532b60",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Monotonicity in Software Systems.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "8fd369a0d2b03cde",
+  "active": "b84cf500ac6b2a5f",
   "lastOpenFiles": [
-    "Becoming a Great Conversationalist.md",
-    "gardening.md",
-    "z:zettels?tag=other.md",
-    "conflict-files-obsidian-git.md",
-    "Strategic Project Management Made Simple.md",
+    "Metastable Failures.md",
+    "Death and Life of Great American Cities.md",
+    "Caching.md",
     "fe44f846.md",
-    "32fcadc4.md",
-    "3e563a75.md",
-    "README.md"
+    "Philosophy of Technology.md",
+    "Queueing.md",
+    "Monotonicity in Software Systems.md",
+    "Strategic Project Management Made Simple.md",
+    "Becoming a Great Conversationalist.md",
+    "gardening.md"
   ]
 }
