@@ -1,4 +1,5 @@
 {
   "promptDelete": false,
-  "showFrontmatter": true
+  "showFrontmatter": true,
+  "attachmentFolderPath": "pdf"
 }

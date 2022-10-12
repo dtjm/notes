@@ -9,33 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Practical Distributed Systems.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "899663b2ca01087e",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Monotonicity in Software Systems.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "95349a4b03aee59d",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Monotonicity in Software Systems.md",
+            "file": "Crash-Only Software.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -76,8 +50,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -97,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Practical Distributed Systems.md",
+                "file": "Crash-Only Software.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Practical Distributed Systems.md"
+                "file": "Crash-Only Software.md"
               }
             }
           },
@@ -124,30 +97,30 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Practical Distributed Systems.md",
+                "file": "Crash-Only Software.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 569.5,
+    "collapsed": true
   },
   "active": "5d24117335a38f00",
   "lastOpenFiles": [
+    "attachments/crash-only-software-hotos-2003.pdf",
+    "attachments/metastable-failures-hotos21-s11-bronson.pdf",
+    "Crash-Only Software.md",
     "Monotonicity in Software Systems.md",
     "Practical Distributed Systems.md",
     "Metastable Failures.md",
     "README.md",
     "Admission Control.md",
     "Dynamic Capacity Management.md",
-    "Caching.md",
-    "Becoming a Great Conversationalist.md",
-    "pdf/metastable-failures-hotos21-s11-bronson.pdf",
-    "Death and Life of Great American Cities.md"
+    "Caching.md"
   ]
 }
