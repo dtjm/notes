@@ -1,5 +1,5 @@
 # Admission Control
-Analogous to [[Dynamic Capacity Management]]
+Analogous to [[Adaptive Concurrency]]
 
 ## Admission in DynamoDB
 TODO

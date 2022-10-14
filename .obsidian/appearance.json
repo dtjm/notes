@@ -2,5 +2,6 @@
   "baseFontSize": 16,
   "theme": "system",
   "textFontFamily": "Palatino,JetBrains Mono",
-  "monospaceFontFamily": "JetBrains Mono"
+  "monospaceFontFamily": "JetBrains Mono",
+  "accentColor": ""
 }

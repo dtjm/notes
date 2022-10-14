@@ -2,7 +2,7 @@
 date: 2020-10-20T01:24
 ---
 
-# Dynamic Capacity Management
+# Adaptive Concurrency
 
 [[Fair Queueing]] and [[Adaptive Concurrency]] are two ways to perform dynamic capacity management. 
 
@@ -24,11 +24,12 @@ date: 2020-10-20T01:24
   - Go implementation of Netflix library 
 - [TCP Congestion Control](https://web.cs.wpi.edu/~rek/Undergrad_Nets/B07/TCP_Congestion_Control.pdf), Lecture from Worcestershire Polytechnic Institute, Advanced Computer Networks course
 - [Envoy, Take the Wheel: Real-time Adaptive Circuit Breaking (Youtube)](https://www.youtube.com/watch?v=CQvmSXlnyeQ) Tony Allen (Lyft), Sep 2020
-  - "Modern service mesh deployments are equipped with hundreds of tunables, such as timeouts and circuit breakers. Finding ideal initial values requires deep technical expertise. Workloads change over time, requiring regular effort to re-tune stale parameters. As a consequence, configuration errors have become a source of operational toil and one of the major causes of system failures across the industry. The service mesh should aim to expose a minimal configuration surface by dynamically adjusting parameters based on observations."
+  > Modern service mesh deployments are equipped with hundreds of tunables, such as timeouts and circuit breakers. Finding ideal initial values requires deep technical expertise. Workloads change over time, requiring regular effort to re-tune stale parameters. As a consequence, configuration errors have become a source of operational toil and one of the major causes of system failures across the industry. The service mesh should aim to expose a minimal configuration surface by dynamically adjusting parameters based on observations."
+
   - [Envoy adaptive concurrency configuration](https://www.envoyproxy.io/docs/envoy/latest/configuration/http/http_filters/adaptive_concurrency_filter)
   - [Envoy adaptive concurrency proposal](https://github.com/envoyproxy/envoy/issues/7789)
-  - [Anatomy of a Cascading Failure - Adaptive Concurrency Limits](https://www.datadoghq.com/videos/the-anatomy-of-a-cascading-failure-n26/#adaptive-concurrency-limits)
-  - [DCM: Dynamic Concurrency Management for Scaling n-Tier Applications in Cloud](http://www.sis.pitt.edu/bpalan/papers/DCM-ICDCS2017.pdf)
+- [Anatomy of a Cascading Failure - Adaptive Concurrency Limits](https://www.datadoghq.com/videos/the-anatomy-of-a-cascading-failure-n26/#adaptive-concurrency-limits)
+- [DCM: Dynamic Concurrency Management for Scaling n-Tier Applications in Cloud](http://www.sis.pitt.edu/bpalan/papers/DCM-ICDCS2017.pdf)
 
 # Links
 - [[[5d6c9066]]]

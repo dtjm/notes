@@ -1,5 +1,6 @@
 {
   "promptDelete": false,
   "showFrontmatter": true,
-  "attachmentFolderPath": "pdf"
+  "attachmentFolderPath": "pdf",
+  "alwaysUpdateLinks": true
 }

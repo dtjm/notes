@@ -4,12 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "196ecb1f5f4b64f7",
-        "type": "leaf",
-        "state": {
-          "type": "empty",
-          "state": {}
-        }
+        "id": "5baa1f50f32ebecc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "196ecb1f5f4b64f7",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -27,7 +33,9 @@
             "type": "leaf",
             "state": {
               "type": "file-explorer",
-              "state": {}
+              "state": {
+                "sortOrder": "alphabetical"
+              }
             }
           },
           {
@@ -100,6 +108,9 @@
     "direction": "horizontal",
     "width": 569.5,
     "collapsed": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
   },
   "active": "196ecb1f5f4b64f7",
   "lastOpenFiles": [
