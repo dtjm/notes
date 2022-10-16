@@ -22,6 +22,8 @@ date: 2020-10-12T15:19
 - [[Metastable Failures]]
 - [[Monotonicity in Software Systems]]
 - [[Caching]]
+- [[Constant Work]]
+* [[Fair Queueing]]
 
 ## Links
 - https://bravenewgeek.com/you-cannot-have-exactly-once-delivery/

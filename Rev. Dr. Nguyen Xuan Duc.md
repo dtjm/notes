@@ -2,8 +2,6 @@
 date: 2020-10-13T02:44
 ---
 
-# Rev. Dr. Nguyen Xuan Duc 
-
 A collection of things about my dad.
 
 ## Publications

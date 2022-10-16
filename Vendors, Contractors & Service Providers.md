@@ -2,8 +2,6 @@
 date: 2020-10-12T15:46
 ---
 
-# Vendors, Contractors & Service Providers
-
 ## Auto
 - Evergreen Autoworks
 - F & F Auto

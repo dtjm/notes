@@ -2,8 +2,6 @@
 date: 2020-12-01T15:07
 ---
 
-# Go Library Design Guidelines
-
 1. No leaks! 
    - Background goroutines should be stoppable. Preferably no background goroutines if possible.
 2. Minimize goroutines

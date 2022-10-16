@@ -2,13 +2,7 @@
 date: 2020-11-18T23:35
 ---
 
-# Disk I/O
-
 - https://www.evanjones.ca/durability-filesystem.html
 - https://danluu.com/filesystem-errors/
 - https://danluu.com/file-consistency/
 - https://danluu.com/deconstruct-files/
-
-
-Write your Markdown content here. Read [neuron documentation](https://neuron.zettel.page/2011404.html) for syntax help.
-

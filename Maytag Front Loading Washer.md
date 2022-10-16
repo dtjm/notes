@@ -2,8 +2,7 @@
 date: 2021-01-31T14:22
 ---
 
-# Maytag Front Loading Washer (MHW8630HW)
-
+* MHW8630HW
 - [Owner's Manual](https://www.maytag.com/content/dam/global/documents/201811/owners-manual-w11156983-revB.pdf)
 - Replacing the outer boot clamp spring  ([Youtube](https://youtu.be/GNrkt7AfW0M), [PartSelect](https://www.partselect.com/PS11753988-Whirlpool-WPW10381562-Front-Load-Washer-Bellow-Door-Boot-Seal-Gray.htm))
 

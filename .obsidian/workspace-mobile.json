@@ -15,6 +15,7 @@
               "state": {
                 "file": "Fair Queueing.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
@@ -25,8 +26,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Something new for today.md",
+                "file": "static/README.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
@@ -67,7 +69,8 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 0,
+    "pinned": true
   },
   "right": {
     "id": "b18cc4746705c410",
@@ -79,7 +82,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Something new for today.md",
+            "file": "static/README.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -87,6 +90,28 @@
             "searchQuery": "",
             "backlinkCollapsed": false,
             "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "9db171bc1586a1b4",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "static/README.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "0652ed2e85aa89a8",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "static/README.md"
           }
         }
       }
@@ -98,15 +123,15 @@
   },
   "active": "842f6e7f19336e0c",
   "lastOpenFiles": [
-    "Fair Queueing.md",
-    "Dynamic Capacity Management.md",
-    "Becoming a Great Conversationalist.md",
-    "Strategic Project Management Made Simple.md",
-    "gardening.md",
-    "z:zettels?tag=other.md",
-    "conflict-files-obsidian-git.md",
-    "fe44f846.md",
-    "32fcadc4.md",
-    "3e563a75.md"
+    "attachments/crash-only-software-hotos-2003.pdf",
+    "index.md",
+    "faq.md",
+    "meWithoutYou.md",
+    "Workstation Enhancements.md",
+    "Universal Theory of Work.md",
+    "Circuit Breakers.md",
+    "Little's Law.md",
+    "Go Library Design.md",
+    "Something new for today.md"
   ]
 }

@@ -4,7 +4,6 @@ tags:
   - parenting
 ---
 
-# The Self-Driven Child (Stixrud & Johnson)
 
 
 ## False Assumptions

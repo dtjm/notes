@@ -2,8 +2,6 @@
 date: 2020-10-13T13:55
 ---
 
-# Numeric Conversions in Unix
-
 ## [sharkdp/insect](https://github.com/sharkdp/insect)
 ```
 brew install insect
