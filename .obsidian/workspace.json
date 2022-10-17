@@ -11,8 +11,13 @@
             "id": "ee14f3dd36bfead3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Fair Queueing.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -73,6 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Fair Queueing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +94,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Fair Queueing.md"
+              }
             }
           },
           {
@@ -97,6 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Fair Queueing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,6 +123,7 @@
   },
   "active": "ee14f3dd36bfead3",
   "lastOpenFiles": [
+    "Load Shedding.md",
     "Fair Queueing.md",
     "Adaptive Concurrency.md",
     "Admission Control.md",
@@ -122,7 +132,6 @@
     "attachments/crash-only-software-hotos-2003.pdf",
     "attachments/metastable-failures-hotos21-s11-bronson.pdf",
     "Monotonicity in Software Systems.md",
-    "Practical Distributed Systems.md",
-    "Metastable Failures.md"
+    "Practical Distributed Systems.md"
   ]
 }
