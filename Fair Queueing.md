@@ -1,0 +1,1 @@
+* [Deficit Round Robin](https://en.wikipedia.org/wiki/Deficit_round_robin) is the "naive" approach to fair queueing, where we basically process a portion of each queue's work in a round-robin order.
